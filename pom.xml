@@ -154,7 +154,6 @@
       <artifactId>commons-lang</artifactId>
       <version>${commons-lang.version}</version>
     </dependency>
-
     <dependency>
       <groupId>aopalliance</groupId>
       <artifactId>aopalliance</artifactId>
@@ -171,6 +170,12 @@
       <artifactId>maven-source-plugin</artifactId>
       <version>3.2.0</version>
     </dependency>
+    <dependency>
+      <groupId>org.apache.maven.plugins</groupId>
+      <artifactId>maven-resources-plugin</artifactId>
+      <version>2.5</version>
+    </dependency>
+
   </dependencies>
   <build>
     <finalName>${project.artifactId}</finalName>
