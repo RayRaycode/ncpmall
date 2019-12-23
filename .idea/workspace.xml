@@ -7,99 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cc75296-8264-4774-bd32-f82a12569a3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ncpmall.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/controller/CategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/controller/CategoryController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/controller/ForeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/controller/ForeController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/controller/ProductImageController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/controller/ProductImageController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/interceptor/LoginInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/interceptor/LoginInterceptor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/interceptor/OtherInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/interceptor/OtherInterceptor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/Category.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/CategoryExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/CategoryExample$Criterion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/CategoryExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/CategoryExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/Order.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/OrderExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/OrderExample$Criterion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/OrderExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/OrderExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/OrderItemExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/OrderItemExample$Criterion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/OrderItemExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/OrderItemExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/Product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/ProductExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/ProductExample$Criterion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/ProductExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/ProductExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/ProductImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/ProductImage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/ProductImageExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/ProductImageExample$Criterion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/ProductImageExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/ProductImageExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/Property.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/Property.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/PropertyExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/PropertyExample$Criterion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/PropertyExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/PropertyExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/PropertyValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/PropertyValue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/PropertyValueExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/PropertyValueExample$Criterion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/PropertyValueExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/PropertyValueExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/Review.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/Review.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/ReviewExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/ReviewExample$Criterion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/ReviewExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/ReviewExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/UserExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/UserExample$Criterion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/UserExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/pojo/UserExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/service/impl/OrderItemServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/service/impl/OrderItemServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/service/impl/OrderServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/service/impl/OrderServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/service/impl/ProductServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/service/impl/ProductServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/service/impl/PropertyValueServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/service/impl/PropertyValueServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/service/impl/ReviewServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/service/impl/ReviewServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/test/TestTmall.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/test/TestTmall.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/util/ImageUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/util/ImageUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/util/MybatisGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/util/MybatisGenerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/util/OverIsMergeablePlugin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/util/OverIsMergeablePlugin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gdut/imis/util/Page.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gdut/imis/util/Page.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/controller/CategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/controller/CategoryController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/controller/ForeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/controller/ForeController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/controller/ProductImageController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/controller/ProductImageController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/interceptor/LoginInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/interceptor/LoginInterceptor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/interceptor/OtherInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/interceptor/OtherInterceptor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/Category.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/CategoryExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/CategoryExample$Criterion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/CategoryExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/CategoryExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/Order.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/OrderExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/OrderExample$Criterion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/OrderExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/OrderExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/OrderItemExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/OrderItemExample$Criterion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/OrderItemExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/OrderItemExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/Product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/ProductExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/ProductExample$Criterion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/ProductExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/ProductExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/ProductImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/ProductImage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/ProductImageExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/ProductImageExample$Criterion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/ProductImageExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/ProductImageExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/Property.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/Property.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/PropertyExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/PropertyExample$Criterion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/PropertyExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/PropertyExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/PropertyValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/PropertyValue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/PropertyValueExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/PropertyValueExample$Criterion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/PropertyValueExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/PropertyValueExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/Review.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/Review.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/ReviewExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/ReviewExample$Criterion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/ReviewExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/ReviewExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/UserExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/UserExample$Criterion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/UserExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/pojo/UserExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/service/impl/OrderItemServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/service/impl/OrderItemServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/service/impl/OrderServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/service/impl/OrderServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/service/impl/ProductServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/service/impl/ProductServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/service/impl/PropertyValueServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/service/impl/PropertyValueServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/service/impl/ReviewServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/service/impl/ReviewServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/test/TestTmall.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/test/TestTmall.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/util/ImageUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/util/ImageUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/util/MybatisGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/util/MybatisGenerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/util/OverIsMergeablePlugin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/util/OverIsMergeablePlugin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/util/Page.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ncpmall/WEB-INF/classes/com/gdut/imis/util/Page.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,40 +40,6 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>search</find>
-      <find>logo</find>
-      <find>log</find>
-      <find>simples</find>
-      <find>glyphicon</find>
-      <find>home</find>
-      <find>but</find>
-      <find>Button</find>
-      <find>simpleSearchDiv</find>
-      <find>show1</find>
-      <find>#C40000</find>
-      <find>headbar show1</find>
-      <find>show</find>
-      <find>head</find>
-      <find>homepage</find>
-      <find>div.categoryWithCarousel div.head</find>
-      <find>catear</find>
-      <find>categoryWithCarousel</find>
-      <find>categoryWithCarouse</find>
-      <find>headbar</find>
-      <find>eachCategory</find>
-      <find>productsAsideCategorys</find>
-      <find>rightMenu</find>
-      <find>carousel-of-product</find>
-      <find>searchDiv</find>
-      <find>confirmPay</find>
-      <find>dev</find>
-      <find>env-test</find>
-      <find>maven-compiler-plugin</find>
-      <find>profileTest1</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -178,7 +54,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="C:\Users\45301\.m2\repository" />
-        <option name="mavenHome" value="H:/apache-maven-3.5.4" />
+        <option name="mavenHome" value="F:/apache-maven-3.5.4" />
         <option name="userSettingsFile" value="C:\Users\45301\.m2\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -206,7 +82,7 @@
     <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -415,7 +291,9 @@
       <workItem from="1576808076265" duration="2035000" />
       <workItem from="1576810440713" duration="648000" />
       <workItem from="1576814490743" duration="25000" />
-      <workItem from="1576827442004" duration="817000" />
+      <workItem from="1576827442004" duration="1155000" />
+      <workItem from="1576829229853" duration="162000" />
+      <workItem from="1577066318481" duration="215000" />
     </task>
     <task id="LOCAL-00001" summary="mysql8">
       <created>1576576687693</created>
@@ -424,7 +302,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576576687740</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1">
+      <created>1576828335048</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576828335049</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -445,7 +330,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mysql8" />
-    <option name="LAST_COMMIT_MESSAGE" value="mysql8" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#Project_Structure" timestamp="1576807855706">
@@ -468,10 +354,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="360" y="71" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1536.824@0.0.1536.824" timestamp="1576810517694" />
-    <state x="548" y="153" key="FileChooserDialogImpl" timestamp="1576810497161">
+    <state x="327" y="6" key="CommitChangelistDialog2" timestamp="1576828326552">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="548" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1576810497161" />
+    <state x="327" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1576828326552" />
+    <state x="548" y="153" key="FileChooserDialogImpl" timestamp="1576829288510">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1576829288510" />
     <state width="1024" height="210" key="GridCell.Tab.-1.bottom" timestamp="1576807730862">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -536,14 +426,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1280" height="429" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1576811097217" />
-    <state x="76" y="0" key="SettingsEditor" timestamp="1576827853665">
+    <state x="76" y="0" key="SettingsEditor" timestamp="1576829327220">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="76" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1576827853665" />
-    <state x="449" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1576827464797">
+    <state x="76" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1576829327219" />
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1577066318068">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="449" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1576827464797" />
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1577066318068" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
